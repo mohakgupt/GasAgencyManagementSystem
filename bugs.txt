@@ -1,0 +1,3 @@
+Known bugs in GAS MANAGEMENT SYSTEM program:
+
+- if a customer has already prepared delivery receipt for a purchase but prepares it again, the same values get rewritten in the "delivery" table as many times as the customer repeats the same task. The program should instead display a message.
