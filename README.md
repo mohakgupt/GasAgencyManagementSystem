@@ -1,5 +1,4 @@
 # GasAgencyManagementSystem
-School project
 
 This application uses Python and MySQL connectivity
 Requirements:
